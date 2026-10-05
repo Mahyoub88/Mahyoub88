@@ -12,19 +12,19 @@ I integrate cameras, LiDAR, sensors, control units, networks, databases and back
 
 | Project | Area |
 |---|---|
-| [ITS Systems Integration & Traffic Enforcement Support](https://mahyoub88.github.io/#proj-its-support) | Professional Engineering · Smart Infrastructure |
-| [Efficient Neural Network Architectures for Vehicle Type Classification](https://mahyoub88.github.io/#proj-vtid2) | MSc Artificial Intelligence Research · Computer Vision · PyTorch |
-| [Vehicle Type Classification Using NGSIM US-101](https://mahyoub88.github.io/#proj-ngsim) | Machine Learning · Intelligent Transportation Systems |
-| [Reconnaissance Robot — RGB-D Mapping & Remote Control](https://mahyoub88.github.io/#proj-reconnaissance-robot) | Robotics · RGB-D Mapping · Embedded Integration |
-| [Autonomous Quadcopter UAV — Flight Control, Telemetry & FPV](https://mahyoub88.github.io/#proj-quadcopter-uav) | UAV · Embedded Flight Control · Wireless Telemetry |
-| [Software-Defined Networking — Automation & Video Streaming](https://mahyoub88.github.io/#proj-sdn) | Software-Defined Networking · Network Automation |
-| [IMS Multimedia Services — VoIP, IPTV & VoLTE](https://mahyoub88.github.io/#proj-ims-voip-volte) | Telecommunications · IP Multimedia Subsystem (IMS) · VoIP / VoLTE |
-| [Software-Defined Data Center (SDDC) — Design & Implementation](https://mahyoub88.github.io/#proj-sddc-lab) | Virtualisation · Data-Center Infrastructure |
-| [Network Infrastructure Design — Wireless, RF & MPLS Backbone](https://mahyoub88.github.io/#proj-rf-network) | Network Infrastructure · RF Planning · Service-Provider Networks |
-| [Engineering Monitoring & Automation Applications (.NET)](https://mahyoub88.github.io/#proj-monitoring-apps) | Desktop Software · Engineering Automation |
-| [Embedded Systems, IoT & Industrial Automation](https://mahyoub88.github.io/#proj-embedded-iot) | Embedded Systems · IoT · Industrial Automation |
-| [RFID Library Automation System (ISO 15693)](https://mahyoub88.github.io/#proj-rfid-study) | RFID · Wireless Identification · Automation |
-| [Solar Energy Systems — Design, Sizing & Deployment](https://mahyoub88.github.io/#proj-solar-study) | Renewable Energy · Power Systems |
+| [ITS Systems Integration & Traffic Enforcement Support](https://mahyoub88.github.io/projects/proj-its-support/) | Professional Engineering · Smart Infrastructure |
+| [Efficient Neural Network Architectures for Vehicle Type Classification](https://mahyoub88.github.io/projects/proj-vtid2/) | MSc Artificial Intelligence Research · Computer Vision · PyTorch |
+| [Vehicle Type Classification Using NGSIM US-101](https://mahyoub88.github.io/projects/proj-ngsim/) | Machine Learning · Intelligent Transportation Systems |
+| [Reconnaissance Robot — RGB-D Mapping & Remote Control](https://mahyoub88.github.io/projects/proj-reconnaissance-robot/) | Robotics · RGB-D Mapping · Embedded Integration |
+| [Autonomous Quadcopter UAV — Flight Control, Telemetry & FPV](https://mahyoub88.github.io/projects/proj-quadcopter-uav/) | UAV · Embedded Flight Control · Wireless Telemetry |
+| [Software-Defined Networking — Automation & Video Streaming](https://mahyoub88.github.io/projects/proj-sdn/) | Software-Defined Networking · Network Automation |
+| [IMS Multimedia Services — VoIP, IPTV & VoLTE](https://mahyoub88.github.io/projects/proj-ims-voip-volte/) | Telecommunications · IP Multimedia Subsystem (IMS) · VoIP / VoLTE |
+| [Software-Defined Data Center (SDDC) — Design & Implementation](https://mahyoub88.github.io/projects/proj-sddc-lab/) | Virtualisation · Data-Center Infrastructure |
+| [Network Infrastructure Design — Wireless, RF & MPLS Backbone](https://mahyoub88.github.io/projects/proj-rf-network/) | Network Infrastructure · RF Planning · Service-Provider Networks |
+| [Engineering Monitoring & Automation Applications (.NET)](https://mahyoub88.github.io/projects/proj-monitoring-apps/) | Desktop Software · Engineering Automation |
+| [Embedded Systems, IoT & Industrial Automation](https://mahyoub88.github.io/projects/proj-embedded-iot/) | Embedded Systems · IoT · Industrial Automation |
+| [RFID Library Automation System (ISO 15693)](https://mahyoub88.github.io/projects/proj-rfid-study/) | RFID · Wireless Identification · Automation |
+| [Solar Energy Systems — Design, Sizing & Deployment](https://mahyoub88.github.io/projects/proj-solar-study/) | Renewable Energy · Power Systems |
 
 [Full project documentation](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
 
@@ -43,3 +43,7 @@ My MSc work on efficient neural networks for vehicle-type classification (VTID2)
 ## Toolbox
 
 Python · PyTorch · scikit-learn · Pandas · NumPy · Cisco · MikroTik · Ubiquiti · GNS3 · VMware ESXi · VB.NET · mikroC · Proteus · ArduPilot
+
+## Illustrated case studies
+
+[Browse architecture diagrams, engineering walkthroughs and source galleries for all projects](https://mahyoub88.github.io/projects/). New illustrations are identified separately from original screenshots and recorded results.
