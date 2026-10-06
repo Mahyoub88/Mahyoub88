@@ -18,13 +18,21 @@ I integrate cameras, LiDAR, sensors, control units, networks, databases and back
 | [Reconnaissance Robot — RGB-D Mapping & Remote Control](https://mahyoub88.github.io/projects/proj-reconnaissance-robot/) | Robotics · RGB-D Mapping · Embedded Integration |
 | [Autonomous Quadcopter UAV — Flight Control, Telemetry & FPV](https://mahyoub88.github.io/projects/proj-quadcopter-uav/) | UAV · Embedded Flight Control · Wireless Telemetry |
 | [Software-Defined Networking — Automation & Video Streaming](https://mahyoub88.github.io/projects/proj-sdn/) | Software-Defined Networking · Network Automation |
-| [IMS Multimedia Services — VoIP, IPTV & VoLTE](https://mahyoub88.github.io/projects/proj-ims-voip-volte/) | Telecommunications · IP Multimedia Subsystem (IMS) · VoIP / VoLTE |
+| [IMS Multimedia Services — VoIP, IPTV & VoLTE](https://mahyoub88.github.io/projects/proj-ims-voip-volte/) | Telecommunications · IP Multimedia Subsystem (IMS) · VoIP / IPTV / VoLTE |
 | [Software-Defined Data Center (SDDC) — Design & Implementation](https://mahyoub88.github.io/projects/proj-sddc-lab/) | Virtualisation · Data-Center Infrastructure |
-| [Network Infrastructure Design — Wireless, RF & MPLS Backbone](https://mahyoub88.github.io/projects/proj-rf-network/) | Network Infrastructure · RF Planning · Service-Provider Networks |
-| [Engineering Monitoring & Automation Applications (.NET)](https://mahyoub88.github.io/projects/proj-monitoring-apps/) | Desktop Software · Engineering Automation |
-| [Embedded Systems, IoT & Industrial Automation](https://mahyoub88.github.io/projects/proj-embedded-iot/) | Embedded Systems · IoT · Industrial Automation |
+| [Embedded Systems & IoT — PIC Firmware and Peripheral Integration](https://mahyoub88.github.io/projects/proj-embedded-iot/) | Embedded Systems · Firmware · IoT |
 | [RFID Library Automation System (ISO 15693)](https://mahyoub88.github.io/projects/proj-rfid-study/) | RFID · Wireless Identification · Automation |
 | [Solar Energy Systems — Design, Sizing & Deployment](https://mahyoub88.github.io/projects/proj-solar-study/) | Renewable Energy · Power Systems |
+| [Industrial Automation & PLC-Based Control Systems](https://mahyoub88.github.io/projects/proj-plc-control/) | Industrial Automation · PLC · HMI |
+| [Embedded EEPROM Data Storage & Retrieval System](https://mahyoub88.github.io/projects/proj-eeprom-storage/) | Embedded Systems · Non-volatile Storage |
+| [Monitoring & Diagnostics Console — VB.NET](https://mahyoub88.github.io/projects/proj-monitoring-console/) | Desktop Software · Operational Diagnostics |
+| [Service Operations & Technical Documentation Management System](https://mahyoub88.github.io/projects/proj-service-operations/) | Desktop Software · Service Operations |
+| [RF Link Budget & Propagation Analysis Engine](https://mahyoub88.github.io/projects/proj-rf-link-budget/) | Engineering Software · RF Analysis |
+| [Line-of-Sight & Fresnel Zone Wireless Planning Tool](https://mahyoub88.github.io/projects/proj-fresnel-planning/) | Engineering Software · Wireless Planning |
+| [Enterprise Wireless & Network Infrastructure Architecture](https://mahyoub88.github.io/projects/proj-enterprise-network/) | Network Engineering · Enterprise Infrastructure |
+| [Wireless Coverage & Point-to-Point Network Planning](https://mahyoub88.github.io/projects/proj-wireless-coverage/) | Network Engineering · RF Planning |
+| [Network Infrastructure Design — MPLS Backbone](https://mahyoub88.github.io/projects/proj-mpls-backbone/) | Service-provider Networks · MPLS |
+
 
 [Full project documentation](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
 
