@@ -18,27 +18,10 @@ I integrate cameras, LiDAR, sensors, control units, networks, databases and back
 | [Reconnaissance Robot — RGB-D Mapping & Remote Control](https://mahyoub88.github.io/projects/proj-reconnaissance-robot/) | Robotics · RGB-D Mapping · Embedded Integration |
 | [Autonomous Quadcopter UAV — Flight Control, Telemetry & FPV](https://mahyoub88.github.io/projects/proj-quadcopter-uav/) | UAV · Embedded Flight Control · Wireless Telemetry |
 | [Software-Defined Networking — Automation & Video Streaming](https://mahyoub88.github.io/projects/proj-sdn/) | Software-Defined Networking · Network Automation |
-| [IMS Multimedia Services — VoIP, IPTV & VoLTE](https://mahyoub88.github.io/projects/proj-ims-voip-volte/) | Telecommunications · IP Multimedia Subsystem (IMS) · VoIP / IPTV / VoLTE |
-| [Software-Defined Data Center (SDDC) — Design & Implementation](https://mahyoub88.github.io/projects/proj-sddc-lab/) | Virtualisation · Data-Center Infrastructure |
-| [Embedded Systems & IoT — PIC Firmware and Peripheral Integration](https://mahyoub88.github.io/projects/proj-embedded-iot/) | Embedded Systems · Firmware · IoT |
-| [RFID Library Automation System (ISO 15693)](https://mahyoub88.github.io/projects/proj-rfid-study/) | RFID · Wireless Identification · Automation |
-| [Solar Energy Systems — Design, Sizing & Deployment](https://mahyoub88.github.io/projects/proj-solar-study/) | Renewable Energy · Power Systems |
-| [Industrial Automation & PLC-Based Control Systems](https://mahyoub88.github.io/projects/proj-plc-control/) | Industrial Automation · PLC · HMI |
-| [Embedded EEPROM Data Storage & Retrieval System](https://mahyoub88.github.io/projects/proj-eeprom-storage/) | Embedded Systems · Non-volatile Storage |
-| [Monitoring & Diagnostics Console — VB.NET](https://mahyoub88.github.io/projects/proj-monitoring-console/) | Desktop Software · Operational Diagnostics |
-| [Service Operations & Technical Documentation Management System](https://mahyoub88.github.io/projects/proj-service-operations/) | Desktop Software · Service Operations |
-| [RF Link Budget & Propagation Analysis Engine](https://mahyoub88.github.io/projects/proj-rf-link-budget/) | Engineering Software · RF Analysis |
-| [Line-of-Sight & Fresnel Zone Wireless Planning Tool](https://mahyoub88.github.io/projects/proj-fresnel-planning/) | Engineering Software · Wireless Planning |
-| [Enterprise Wireless & Network Infrastructure Architecture](https://mahyoub88.github.io/projects/proj-enterprise-network/) | Network Engineering · Enterprise Infrastructure |
-| [Wireless Coverage & Point-to-Point Network Planning](https://mahyoub88.github.io/projects/proj-wireless-coverage/) | Network Engineering · RF Planning |
-| [Network Infrastructure Design — MPLS Backbone](https://mahyoub88.github.io/projects/proj-mpls-backbone/) | Service-provider Networks · MPLS |
 
+[Browse all 20 engineering case studies](https://mahyoub88.github.io/projects/) · [Canonical project index](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
 
-[Full project documentation](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
-
-[USV Systems Integration — Study Notes](https://github.com/Mahyoub88/usv-systems-integration-notes) remain a separate technical resource.
-
-My MSc work on efficient neural networks for vehicle-type classification (VTID2) is summarised on the portfolio. Its code stays private during academic assessment.
+[USV Systems Integration — Study Notes](https://github.com/Mahyoub88/usv-systems-integration-notes) is a separate technical learning resource. VTID2 source code remains private during academic assessment.
 
 ## Focus areas
 
@@ -51,7 +34,3 @@ My MSc work on efficient neural networks for vehicle-type classification (VTID2)
 ## Toolbox
 
 Python · PyTorch · scikit-learn · Pandas · NumPy · Cisco · MikroTik · Ubiquiti · GNS3 · VMware ESXi · VB.NET · mikroC · Proteus · ArduPilot
-
-## Illustrated case studies
-
-[Browse architecture diagrams, engineering walkthroughs and source galleries for all projects](https://mahyoub88.github.io/projects/). New illustrations are identified separately from original screenshots and recorded results.
