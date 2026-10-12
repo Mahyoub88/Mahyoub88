@@ -19,7 +19,7 @@ I integrate cameras, LiDAR, sensors, control units, networks, databases and back
 | [Autonomous Quadcopter UAV — Flight Control, Telemetry & FPV](https://mahyoub88.github.io/projects/proj-quadcopter-uav/) | UAV · Embedded Flight Control · Wireless Telemetry |
 | [Software-Defined Networking — Automation & Video Streaming](https://mahyoub88.github.io/projects/proj-sdn/) | Software-Defined Networking · Network Automation |
 
-[Browse all 20 engineering case studies](https://mahyoub88.github.io/projects/) · [Canonical project index](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
+[Browse all 19 engineering case studies](https://mahyoub88.github.io/projects/) · [Canonical project index](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
 
 [USV Systems Integration — Study Notes](https://github.com/Mahyoub88/usv-systems-integration-notes) is a separate technical learning resource. VTID2 source code remains private during academic assessment.
 
@@ -29,7 +29,9 @@ I integrate cameras, LiDAR, sensors, control units, networks, databases and back
 - Computer vision for intelligent mobility: data quality, leakage-controlled evaluation, efficient CNNs and Grad-CAM
 - Networks and communications: routing and switching, MPLS, wireless/RF, VoIP and IMS
 - Data-center infrastructure: VMware ESXi, iSCSI storage, Active Directory, Citrix XenApp and Exchange
-- Embedded systems and automation: PIC, AVR, Arduino, sensors and PLC
+- Embedded systems and automation: PIC16 peripheral integration, persistent EEPROM storage, AVR, Arduino, sensors and PLC
+
+[PIC Embedded Systems — Peripheral Integration & Persistent Storage](https://mahyoub88.github.io/projects/proj-embedded-iot/) covers firmware, sensing, displays, real-time clocks, control outputs and values retained across power cycles.
 
 ## Toolbox
 
