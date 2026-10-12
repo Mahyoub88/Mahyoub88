@@ -31,7 +31,7 @@ I integrate cameras, LiDAR, sensors, control units, networks, databases and back
 - Data-center infrastructure: VMware ESXi, iSCSI storage, Active Directory, Citrix XenApp and Exchange
 - Embedded systems and automation: PIC16 peripheral integration, persistent EEPROM storage, AVR, Arduino, sensors and PLC
 
-[PIC Embedded Systems — Peripheral Integration & Persistent Storage](https://mahyoub88.github.io/projects/proj-embedded-iot/) covers firmware, sensing, displays, real-time clocks, control outputs and values retained across power cycles.
+[PIC-Based Equipment Room Monitoring & Control System](https://mahyoub88.github.io/projects/proj-embedded-iot/) documents a room-controller reference design for environmental sensing, ventilation, keypad access, local alarms and persistent settings, with preserved original PIC/EEPROM implementation media.
 
 ## Toolbox
 
