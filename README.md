@@ -2,7 +2,7 @@
 
 **Senior ITS & Systems Integration Engineer** at VITRONIC Machine Vision, UAE · **MSc Artificial Intelligence** candidate at UWE Bristol
 
-I integrate cameras, LiDAR, sensors, control units, networks, databases and backend platforms into reliable intelligent-transportation and traffic-enforcement systems, and I apply machine learning and computer vision to smarter mobility.
+I bring 14 years of multidisciplinary engineering experience, including over 7 years at VITRONIC Machine Vision in the UAE. I integrate cameras, LiDAR, sensors, control units, networks, databases and backend platforms into reliable intelligent-transportation and traffic-enforcement systems, and I apply machine learning and computer vision to smarter mobility.
 
 [Portfolio](https://mahyoub88.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammed-mahyoub/) · [ORCID](https://orcid.org/0009-0003-5640-352X)
 
