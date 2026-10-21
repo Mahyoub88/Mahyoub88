@@ -4,26 +4,38 @@
 
 I bring 14 years of multidisciplinary engineering experience, including over 7 years at VITRONIC Machine Vision in the UAE. I integrate cameras, LiDAR, sensors, control units, networks, databases and backend platforms into reliable intelligent-transportation and traffic-enforcement systems, and I apply machine learning and computer vision to smarter mobility.
 
-[Portfolio](https://mahyoub88.github.io/) · [Download CV](https://mahyoub88.github.io/Mohammed_Mahyoub_CV_1.pdf) · [LinkedIn](https://www.linkedin.com/in/mohammed-mahyoub/) · [ORCID](https://orcid.org/0009-0003-5640-352X)
+[Portfolio](https://mahyoub88.github.io/) · [Download CV](https://mahyoub88.github.io/Mohammed_Mahyoub_CV_1.pdf) · [LinkedIn](https://www.linkedin.com/in/mohammed-mahyoub/) · [ORCID](https://orcid.org/0009-0003-5640-352X) · [Bluesky](https://bsky.app/profile/mahyoub88.bsky.social)
+
+Career progression: Service Engineer (October 2019–November 2024), then Senior Service Engineer (December 2024–present). MSc Artificial Intelligence is in progress, June 2026–expected May 2028. Arabic: native/bilingual; English: professional working proficiency.
 
 ---
 
-## Featured work
+## Engineering projects
+
+The same 16 case studies are maintained in the [official portfolio](https://mahyoub88.github.io/projects/).
 
 | Project | Area |
 |---|---|
 | [ITS Systems Integration & Traffic Enforcement Support](https://mahyoub88.github.io/projects/proj-its-support/) | Professional Engineering · Smart Infrastructure |
-| [Efficient Neural Network Architectures for Vehicle Type Classification](https://mahyoub88.github.io/projects/proj-vtid2/) | MSc Artificial Intelligence Research · Computer Vision · PyTorch · [Repo](https://github.com/Mahyoub88/VTID2-Efficient-Vehicle-Type-Classification) · [DOI](https://doi.org/10.5281/zenodo.23524700) |
+| [Efficient Neural Network Architectures for Vehicle Type Classification](https://mahyoub88.github.io/projects/proj-vtid2/) | MSc Artificial Intelligence Research · Computer Vision · PyTorch |
 | [Vehicle Type Classification Using NGSIM US-101](https://mahyoub88.github.io/projects/proj-ngsim/) | Machine Learning · Intelligent Transportation Systems |
 | [Reconnaissance Robot — RGB-D Mapping & Remote Control](https://mahyoub88.github.io/projects/proj-reconnaissance-robot/) | Robotics · RGB-D Mapping · Embedded Integration |
 | [Autonomous Quadcopter UAV — Flight Control, Telemetry & FPV](https://mahyoub88.github.io/projects/proj-quadcopter-uav/) | UAV · Embedded Flight Control · Wireless Telemetry |
-| [Engineering Operations Suite — Monitoring, Diagnostics & Service Management](https://mahyoub88.github.io/projects/proj-engineering-operations/) | Implemented VB.NET applications · Proposed integration |
-| [Wireless Link Planning & RF Engineering](https://mahyoub88.github.io/projects/proj-wireless-link-planning/) | Historical Atma–Al-Sharq implementation · Subsequent RF review |
 | [Software-Defined Networking — Automation & Video Streaming](https://mahyoub88.github.io/projects/proj-sdn/) | Software-Defined Networking · Network Automation |
+| [IMS Multimedia Services — VoIP, IPTV & VoLTE](https://mahyoub88.github.io/projects/proj-ims-voip-volte/) | Telecommunications · IP Multimedia Subsystem (IMS) · VoIP / IPTV / VoLTE |
+| [Software-Defined Data Center (SDDC) — Design & Implementation](https://mahyoub88.github.io/projects/proj-sddc-lab/) | Virtualisation · Data-Center Infrastructure |
+| [PIC-Based Equipment Room Monitoring & Control System](https://mahyoub88.github.io/projects/proj-embedded-iot/) | PIC implementation media · Integrated reference design |
+| [RFID Library Automation System (ISO 15693)](https://mahyoub88.github.io/projects/proj-rfid-study/) | RFID · Wireless Identification · Automation |
+| [Solar Energy Systems — Design, Sizing & Deployment](https://mahyoub88.github.io/projects/proj-solar-study/) | Renewable Energy · Power Systems |
+| [Industrial Automation & PLC-Based Control Systems](https://mahyoub88.github.io/projects/proj-plc-control/) | Industrial Automation · PLC · HMI |
+| [Engineering Operations Suite — Monitoring, Diagnostics & Service Management](https://mahyoub88.github.io/projects/proj-engineering-operations/) | Two implemented VB.NET applications · Proposed shared-data integration |
+| [Wireless Link Planning & RF Engineering](https://mahyoub88.github.io/projects/proj-wireless-link-planning/) | Historical wireless implementation · Subsequent RF review |
+| [Enterprise Wireless & Network Infrastructure Architecture](https://mahyoub88.github.io/projects/proj-enterprise-network/) | Network Engineering · Enterprise Infrastructure |
+| [Network Infrastructure Design — MPLS Backbone](https://mahyoub88.github.io/projects/proj-mpls-backbone/) | Service-provider Networks · MPLS |
 
 [Browse all engineering case studies](https://mahyoub88.github.io/projects/) · [Canonical project index](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
 
-[USV Systems Integration — Study Notes](https://github.com/Mahyoub88/usv-systems-integration-notes) is a separate technical learning resource. The VTID2 study is public: [repository](https://github.com/Mahyoub88/VTID2-Efficient-Vehicle-Type-Classification) · [DOI 10.5281/zenodo.23524700](https://doi.org/10.5281/zenodo.23524700).
+[USV Systems Integration — Study Notes](https://github.com/Mahyoub88/usv-systems-integration-notes) is a separate technical learning resource. The VTID2 study is public: [repository](https://github.com/Mahyoub88/VTID2-Efficient-Vehicle-Type-Classification) · [DOI 10.5281/zenodo.23524699](https://doi.org/10.5281/zenodo.23524699).
 
 ## Focus areas
 
