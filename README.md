@@ -13,7 +13,7 @@ I bring 14 years of multidisciplinary engineering experience, including over 7 y
 | Project | Area |
 |---|---|
 | [ITS Systems Integration & Traffic Enforcement Support](https://mahyoub88.github.io/projects/proj-its-support/) | Professional Engineering · Smart Infrastructure |
-| [Efficient Neural Network Architectures for Vehicle Type Classification](https://mahyoub88.github.io/projects/proj-vtid2/) | MSc Artificial Intelligence Research · Computer Vision · PyTorch |
+| [Efficient Neural Network Architectures for Vehicle Type Classification](https://mahyoub88.github.io/projects/proj-vtid2/) | MSc Artificial Intelligence Research · Computer Vision · PyTorch · [Repo](https://github.com/Mahyoub88/VTID2-Efficient-Vehicle-Type-Classification) · [DOI](https://doi.org/10.5281/zenodo.23524700) |
 | [Vehicle Type Classification Using NGSIM US-101](https://mahyoub88.github.io/projects/proj-ngsim/) | Machine Learning · Intelligent Transportation Systems |
 | [Reconnaissance Robot — RGB-D Mapping & Remote Control](https://mahyoub88.github.io/projects/proj-reconnaissance-robot/) | Robotics · RGB-D Mapping · Embedded Integration |
 | [Autonomous Quadcopter UAV — Flight Control, Telemetry & FPV](https://mahyoub88.github.io/projects/proj-quadcopter-uav/) | UAV · Embedded Flight Control · Wireless Telemetry |
@@ -23,7 +23,7 @@ I bring 14 years of multidisciplinary engineering experience, including over 7 y
 
 [Browse all engineering case studies](https://mahyoub88.github.io/projects/) · [Canonical project index](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
 
-[USV Systems Integration — Study Notes](https://github.com/Mahyoub88/usv-systems-integration-notes) is a separate technical learning resource. VTID2 source code remains private during academic assessment.
+[USV Systems Integration — Study Notes](https://github.com/Mahyoub88/usv-systems-integration-notes) is a separate technical learning resource. The VTID2 study is public: [repository](https://github.com/Mahyoub88/VTID2-Efficient-Vehicle-Type-Classification) · [DOI 10.5281/zenodo.23524700](https://doi.org/10.5281/zenodo.23524700).
 
 ## Focus areas
 
