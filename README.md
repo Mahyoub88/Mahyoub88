@@ -27,11 +27,13 @@ The same 16 case studies are maintained in the [official portfolio](https://mahy
 | [PIC-Based Equipment Room Monitoring & Control System](https://mahyoub88.github.io/projects/proj-embedded-iot/) | PIC implementation media · Integrated reference design |
 | [RFID Library Automation System (ISO 15693)](https://mahyoub88.github.io/projects/proj-rfid-study/) | RFID · Wireless Identification · Automation |
 | [Solar Energy Systems — Design, Sizing & Deployment](https://mahyoub88.github.io/projects/proj-solar-study/) | Renewable Energy · Power Systems |
-| [Industrial Automation & PLC-Based Control Systems](https://mahyoub88.github.io/projects/proj-plc-control/) | Industrial Automation · PLC · HMI |
+| [Industrial Automation & PLC-Based Control Systems](https://mahyoub88.github.io/projects/proj-plc-control/) | Concrete Batching · PC-Based HMI · Modbus RTU · SQL Server |
 | [Engineering Operations Suite — Monitoring, Diagnostics & Service Management](https://mahyoub88.github.io/projects/proj-engineering-operations/) | Two implemented VB.NET applications · Proposed shared-data integration |
 | [Wireless Link Planning & RF Engineering](https://mahyoub88.github.io/projects/proj-wireless-link-planning/) | Historical wireless implementation · Subsequent RF review |
 | [Enterprise Wireless & Network Infrastructure Architecture](https://mahyoub88.github.io/projects/proj-enterprise-network/) | Network Engineering · Enterprise Infrastructure |
 | [Network Infrastructure Design — MPLS Backbone](https://mahyoub88.github.io/projects/proj-mpls-backbone/) | Service-provider Networks · MPLS |
+
+The [concrete batching control case study](https://mahyoub88.github.io/projects/proj-plc-control/) documents a PC-based SANY operator HMI, PLC communication over Modbus RTU, separate serial weighing interfaces and shared SQL Server recipe, batch and delivery records. Its engineering record distinguishes saved application settings and archive device-family logs from unresolved CPU and as-built I/O details.
 
 [Browse all engineering case studies](https://mahyoub88.github.io/projects/) · [Canonical project index](https://github.com/Mahyoub88/Mahyoub88.github.io/blob/main/docs/PROJECTS.md)
 
